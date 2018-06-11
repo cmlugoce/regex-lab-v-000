@@ -1,4 +1,4 @@
-def starts_with_a_vowel?.match(/\[aeiou]/)
+def starts_with_a_vowel?.match(/\w+[aeiou]/)
 
 end
 
